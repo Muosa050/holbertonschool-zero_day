@@ -1,1 +1,1 @@
-git dir
+Starting to code today, so cool
